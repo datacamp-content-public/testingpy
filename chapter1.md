@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -10,30 +12,54 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 4700bb47c9
+key: 35b1f35dbc
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 4a1827b730
+```
+
+dfsdfs
 
 `@instructions`
+sfsfsfs
 
 `@hint`
+adad
 
 `@pre_exercise_code`
-```{python}
-
+```{}
+x =
 ```
-
 `@sample_code`
-```{python}
-
+```{}
+x = 10
 ```
-
 `@solution`
-```{python}
-
+```{}
+x = 10 + 2
 ```
-
 `@sct`
-```{python}
-
+```{}
+x = 12
 ```
+
+
